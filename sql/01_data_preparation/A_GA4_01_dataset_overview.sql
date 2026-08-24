@@ -1,7 +1,8 @@
 -- =========================================================
 -- GA4 Ecommerce Performance Analysis
--- Stage: Data Preparation
+-- Stage: 01 - Data Preparation
 -- Query: Dataset Overview
+-- File: A_GA4_01_dataset_overview.sql
 -- Purpose: Explore the structure and contents of the GA4 ecommerce dataset
 -- =========================================================
 
