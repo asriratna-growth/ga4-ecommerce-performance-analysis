@@ -41,6 +41,7 @@ The analysis focuses on:
 - Purchasing users
 - Revenue
 - Channel performance
+- User conversion performance
 - Acquisition efficiency
 
 ### 4. Conversion Funnel
@@ -49,7 +50,7 @@ Evaluates customer progression through the ecommerce purchase journey.
 
 The funnel analyzes key stages including:
 
-`View Item → Add to Cart → Begin Checkout → Purchase`
+`View Item → Add to Cart → Begin Checkout → Add Shipping Info → Add Payment Info → Purchase`
 
 The page identifies major drop-off points and opportunities to improve conversion.
 
@@ -86,6 +87,7 @@ The page evaluates trends in:
 - Purchases
 - Revenue
 - Conversion performance
+- Revenue efficiency
 
 ### 8. Business Insights
 
@@ -93,22 +95,44 @@ Summarizes the key findings identified from the analysis.
 
 Insights are translated from dashboard metrics into business implications and opportunities.
 
-### 9. Strategic Recommendations
+## 9. Strategic Recommendations
 
 Converts the analytical findings into recommended business actions.
 
-Recommendations focus on opportunities related to:
+The recommendations focus on four key opportunities:
 
-- Customer acquisition
-- Conversion optimization
-- Checkout experience
-- Landing page performance
-- Revenue growth
+1. **Optimize Organic Growth**  
+   Continue investing in SEO and referral partnerships while monitoring underperforming paid channels for efficiency improvements.
+
+2. **Reduce Checkout Friction**  
+   Review payment methods, simplify checkout steps, and conduct usability testing to reduce abandonment between Shipping and Payment.
+
+3. **Scale High-performing Landing Pages**  
+   Increase marketing traffic to the highest-converting landing pages and replicate successful design patterns across lower-performing pages.
+
+4. **Adopt Continuous KPI Monitoring**  
+   Regularly monitor acquisition, funnel performance, checkout behavior, and landing page effectiveness using GA4 dashboards to support ongoing optimization.
+
+## 10. Key Takeaways
+
+Summarizes the most important conclusions from the analysis.
+
+Key takeaways include:
+
+- Revenue is primarily driven by Organic Search and Referral traffic.
+- The checkout process represents the greatest opportunity for conversion improvement.
+- High-performing landing pages and continuous KPI monitoring provide the strongest opportunities for sustainable ecommerce growth.
+
+## 11. Notes
+
+Documents important data considerations identified during the analysis.
+
+- Minor source-level variance: 845 sessions (0.23%) between Conversion Trend and Acquisition Summary.
 
 ## Dashboard Navigation
 
-The dashboard follows a progression from business context to detailed analysis:
+The dashboard follows a progression from business context to detailed analysis and recommended actions:
 
-`Overview → Performance → Acquisition → Funnel → Checkout → Landing Pages → Trends → Insights → Recommendations`
+`Overview → Performance → Acquisition → Funnel → Checkout → Landing Pages → Trends → Insights → Recommendations → Key Takeaways → Notes`
 
-This structure allows users to move from understanding the business situation to identifying opportunities and recommended actions.
+This structure allows users to move from understanding the business situation to identifying performance opportunities, key conclusions, and recommended actions.
