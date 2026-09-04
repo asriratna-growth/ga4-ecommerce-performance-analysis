@@ -95,7 +95,7 @@ Summarizes the key findings identified from the analysis.
 
 Insights are translated from dashboard metrics into business implications and opportunities.
 
-## 9. Strategic Recommendations
+### 9. Strategic Recommendations
 
 Converts the analytical findings into recommended business actions.
 
@@ -113,7 +113,7 @@ The recommendations focus on four key opportunities:
 4. **Adopt Continuous KPI Monitoring**  
    Regularly monitor acquisition, funnel performance, checkout behavior, and landing page effectiveness using GA4 dashboards to support ongoing optimization.
 
-## 10. Key Takeaways
+### 10. Key Takeaways
 
 Summarizes the most important conclusions from the analysis.
 
@@ -123,7 +123,7 @@ Key takeaways include:
 - The checkout process represents the greatest opportunity for conversion improvement.
 - High-performing landing pages and continuous KPI monitoring provide the strongest opportunities for sustainable ecommerce growth.
 
-## 11. Notes
+### 11. Notes
 
 Documents important data considerations identified during the analysis.
 
