@@ -39,6 +39,7 @@ The reporting layer covers three major areas:
 ### Conversion & Funnel
 
 - Ecommerce funnel performance
+- Funnel reporting table
 - Channel funnel performance
 - Checkout funnel performance
 - Payment drop-off analysis by device
@@ -74,7 +75,7 @@ The dashboard evaluates:
 - Landing page effectiveness
 - Performance trends
 - Business insights
-- Strategic recommendations
+- Strategic recommendations & Key takeaways
 
 ## 6. Insight Development
 
