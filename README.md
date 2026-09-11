@@ -259,23 +259,35 @@ Regularly monitor acquisition, funnel performance, checkout behavior, landing pa
 ga4-ecommerce-performance-analysis/
 │
 ├── dashboard/
+│   ├── metrics/
+│   ├── screenshots/
 │   └── README.md
 │
 ├── documentation/
+│   ├── README.md
+│   ├── dashboard_guidey.md
 │   ├── data_dictionary.md
 │   ├── methodology.md
-│   └── dashboard_guide.md
+│   ├── project_overview.md
+│   └── README.md
 │
 ├── insights/
-│   └── README.md
+│   ├── README.md
+│   ├── business_insights.md
+│   ├── data_notes.md
+│   ├── key_takeaways.md
+│   └── strategic_recommendations.md
 │
 ├── sql/
 │   ├── 01_data_exploration/
 │   ├── 02_reporting_tables/
-│   └── 03_analysis_queries/
+│   ├── 03_analysis_queries/
+│   └── README.md
 │
 ├── LICENSE
-└── README.md
+├── README.md
+└── banner.png
+
 
 ## Author
 
