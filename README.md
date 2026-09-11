@@ -202,8 +202,6 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Checkout improvements
    - Landing page optimization
    - Revenue growth opportunities
-
-![Strategic Recommendations](dashboard/screenshots/GA4_Page_9_STRATEGIC_RECOMMENDATIONS.png)
   
 ## Key Findings
 
@@ -252,6 +250,8 @@ Increase marketing traffic to the highest-converting landing pages and replicate
 ### 4. Adopt Continuous KPI Monitoring
 
 Regularly monitor acquisition, funnel performance, checkout behavior, landing page effectiveness, and revenue trends using GA4 dashboards to support ongoing optimization.
+
+![Strategic Recommendations](dashboard/screenshots/GA4_Page_9_STRATEGIC_RECOMMENDATIONS.png)
 
 ## Repository Structure
 
