@@ -129,7 +129,7 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Key metrics
    - Tools and technologies
 
-![Project Overview](Dashboard/screenshots/![Campaign Performance Overview](Dashboard/campaign_performance_overview.jpg)
+![Project Overview](dashboard/screenshots/GA4_Page_1_PROJECT_OVERVIEW.png)
 
 2. **Executive Summary**
    - Users
