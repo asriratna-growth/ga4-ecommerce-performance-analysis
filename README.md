@@ -288,7 +288,6 @@ ga4-ecommerce-performance-analysis/
 ├── README.md
 └── banner.png
 
-
 ## Author
 
 **Asri Ratna**
