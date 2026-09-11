@@ -139,7 +139,7 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Conversion performance
    - Revenue efficiency
 
-![Executive Summary](dashboard/screenshots/GA4_Page_2_EXECUTIVE_SUMMARY.png))
+![Executive Summary](dashboard/screenshots/GA4_Page_2_EXECUTIVE_SUMMARY.png)
 
 3. **Acquisition Performance**
    - Acquired users
@@ -149,6 +149,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - User conversion rate
    - Channel performance
    - Acquisition efficiency
+  
+![Acquisition Performance](dashboard/screenshots/GA4_Page_3_ACQUISITION_PERFORMANCE.png)
 
 4. **Conversion Funnel**
    - Users entering the funnel
@@ -157,6 +159,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Channel-level purchase conversion
    - Major drop-off points
 
+![Conversion Funnel](dashboard/screenshots/GA4_Page_4_CONVERSION_FUNNEL.png)
+
 5. **Checkout Performance**
    - Checkout users
    - Shipping progression
@@ -164,6 +168,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Purchase completion
    - Device-level checkout performance
    - Payment-stage drop-off
+  
+![Checkout Performance](dashboard/screenshots/GA4_Page_5_CHECKOUT_PERFORMANCE.png)
 
 6. **Landing Page Effectiveness**
    - Landing page volume
@@ -172,6 +178,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Conversion performance
    - Landing page contribution
 
+![Landing Page_Effectiveness](dashboard/screenshots/GA4_Page_6_LANDING_PAGE_EFFECTIVENESS.png)
+
 7. **Performance Trends**
    - Users
    - Sessions
@@ -179,10 +187,14 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Revenue
    - Conversion performance over time
 
+![Performance Trends](dashboard/screenshots/GA4_Page_7_PERFORMANCE_TRENDS.png)
+
 8. **Business Insights**
    - Key findings
    - Business implications
    - Performance opportunities
+  
+![Business Insights](dashboard/screenshots/GA4_Page_8_BUSINESS_INSIGHTS.png)
 
 9. **Strategic Recommendations**
    - Acquisition optimization
@@ -190,6 +202,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Checkout improvements
    - Landing page optimization
    - Revenue growth opportunities
+
+![Strategic Recommendations](dashboard/screenshots/GA4_Page_9_STRATEGIC_RECOMMENDATIONS.png)
   
 ## Key Findings
 
