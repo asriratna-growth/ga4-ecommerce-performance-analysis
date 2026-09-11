@@ -139,6 +139,8 @@ The GA4 Ecommerce Performance Dashboard provides an end-to-end view of ecommerce
    - Conversion performance
    - Revenue efficiency
 
+![Executive Summary](dashboard/screenshots/GA4_Page_2_EXECUTIVE_SUMMARY.png))
+
 3. **Acquisition Performance**
    - Acquired users
    - Sessions
